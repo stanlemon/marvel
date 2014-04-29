@@ -5,7 +5,7 @@ Browse the Marvel API from the command line with nodejs
 
 Install dependencies with npm
 ```
-   npm install
+npm install
 ```
 
 Sign up for a Marvel account and get an API key over at http://developer.marvel.com
@@ -13,10 +13,10 @@ Sign up for a Marvel account and get an API key over at http://developer.marvel.
 Put your public and private API keys in a config file in your checkout, like this
 
 ```
-  {
-    "publickey": "00000000000000000",
-    "privatekey": "111111111111111111"
-  }
+{
+  "publickey": "00000000000000000",
+  "privatekey": "111111111111111111"
+}
 ```
 
 Run the marvel API browser from the command line:
