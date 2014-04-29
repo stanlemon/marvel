@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var marvel = require('./lib/marvel.js');
+    marvel.run();

@@ -1,0 +1,17 @@
+{
+  "name": "marvel",
+  "version": "0.0.1",
+  "description": "Browse the Marvel API on the command line",
+  "main": "marvel",
+  "dependencies": {
+    "nconf": "^0.6.9",
+    "nomnom": "^1.6.2",
+    "yamljs": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stan Lemon",
+  "license": "MIT"
+}
